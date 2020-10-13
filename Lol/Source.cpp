@@ -11,6 +11,6 @@ int main()
     {
         cout << pow2 << ' ';
         pow2 *= 2;
-        cout << "Lol";
+      
     }
 }
